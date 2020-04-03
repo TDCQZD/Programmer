@@ -1,0 +1,10 @@
+# ide
+.idea
+# External packages folder
+vendor/
+
+# build
+build/
+
+#store
+.DS_Store
